@@ -29,7 +29,7 @@ The Excel dashboard includes charts for:
 
 - Revenue Trend (2021–2023)  
 - Net Income Trend (2021–2023)  
-- Profit Margin Trend  
+- Profit Margin Trend (2021–2023) 
 
 These visualizations help evaluate Apple's profitability and financial performance over time.
 
@@ -45,10 +45,6 @@ These visualizations help evaluate Apple's profitability and financial performan
 1. Download the Excel file below.  
 2. Open the workbook in Microsoft Excel.  
 3. View the **Dashboard** sheet to see the financial analysis visualizations.
-
-## Project File
-
-
 
 ## Project File
 
